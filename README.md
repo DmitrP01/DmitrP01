@@ -3,7 +3,7 @@
 </div>
 
 <div class="bages" align="center">
-  <a href="https://t.me/@Dmit">
+  <a href="https://t.me/@DmiitP">
   <img src="https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white&style=for-the-badge">
   </a><br>
   <img src="https://komarev.com/ghpvc/?username=DmitrP01&style=flat-square&color=blue"><br>
@@ -26,7 +26,7 @@ I am a Intern Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 - :mountain: Ближайшая цель - изучить JS, React, Angular, TypeScript. Сделать свой первый проект
 
-- :mailbox: Как со мной связаться: [![Telegram Badge](https://img.shields.io/badge/-Dmit-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/@Dmit)
+- :mailbox: Как со мной связаться: [![Telegram Badge](https://img.shields.io/badge/-Dmit-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/@DmiitP)
 
 ### :hammer_and_wrench: Languages and Tools :
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
@@ -37,8 +37,3 @@ I am a Intern Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original-wordmark.svg" title="REACT" alt="REACT" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" title="TS" alt="TS" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/angularjs/angularjs-original.svg" title="ANGULAR" alt="ANGULAR" width="40" height="40"/>&nbsp;
-
-### :writing_hand: Blog Posts :
-<!-- BLOG-POST-LIST:START -->
-
-<!-- BLOG-POST-LIST:END -->

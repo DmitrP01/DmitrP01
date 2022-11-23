@@ -17,18 +17,18 @@
   <img src="https://mojoo.ru/images/29.gif" width="600" height="400"/>
 </div>
 
-### :man_technologist: About Me :
+### :man_technologist: Обо мне :
 Я начинающий разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 - :telescope: Активно изучаю веб разработку
 
 - :bricks: Совершенствую свои навыки 
 
-- :mountain: Ближайшая цель - изучить JS, React, Angular, TypeScript. Сделать свой первый проект
+- :mountain: Ближайшая цель - изучить JS, React. Сделать свой первый проект
 
 - :mailbox: Как со мной связаться: [![Telegram Badge](https://img.shields.io/badge/-Dmit-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/DmiitP)
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Языки и инструменты :
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;

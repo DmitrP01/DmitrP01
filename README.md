@@ -17,6 +17,14 @@
   <img src="https://mojoo.ru/images/29.gif" width="600" height="400"/>
 </div>
 
+Личные качества:
+- Ответственный
+- Внимательный
+- Желание развиваться и познавать 
+новое 
+- Желание работать и зарабатывать
+- Довожу дело до конца
+
 ### :man_technologist: О себе <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">:
 
 - Умею работать с пакетом офисных программ MS Office
